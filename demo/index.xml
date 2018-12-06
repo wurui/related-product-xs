@@ -17,10 +17,10 @@
     <data>
         <ecom-products>
             <i>
-                <title>纯色毛绒哈居拖鞋</title>
-                <brief>居家伴侣</brief>
-                <price>19.9</price>
-                <orig_price>29.9</orig_price>
+                <title>火山石板米（粳米）5千克</title>
+                <brief></brief>
+                <price>230</price>
+                
                 <inventory>10</inventory>
                 <category></category>
                 <sold>0</sold>
@@ -28,16 +28,16 @@
                 <description></description>
                 <media>
                     <i>
-                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29uhgj9mzTjouwic2tRwkj2Agdb-1000.png</src>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29u0furmoTjpbx6u34RjriwAau3-1000.png</src>
                         <type>image</type>
                     </i>
                 </media>
             </i>
             <i>
-                <title>Amozon Kindle7 Paperwhite</title>
-                <brief>最新款　性能强大　阅读伴侣</brief>
-                <price>699</price>
-                <orig_price>899</orig_price>
+                <title>长白山秋耳（桑耳）150g</title>
+                <brief>冬季养生火锅</brief>
+                <price>98</price>
+                
                 <inventory>10</inventory>
                 <category></category>
                 <sold>0</sold>
@@ -45,11 +45,46 @@
                 <description></description>
                 <media>
                     <i>
-                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29uhgj88vTjouwidgxRg5ftA80l-1000.png</src>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29u0fuqucTjpbx6uvgRo455Adgl-1000.png</src>
                         <type>image</type>
                     </i>
                 </media>
             </i>
+            <i>
+                <title>古田糯耳（银耳）200克　长白山特产</title>
+                <price>128</price>
+                <orig_price></orig_price>
+                <inventory>10</inventory>
+                <category></category>
+                <sold>0</sold>
+                <owner>git/wurui</owner>
+                <description></description>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29u0fupryTjpbx6vxuRphwiAb85-1000.png</src>
+                        <type>image</type>
+                    </i>
+                </media>
+            </i>
+            <i>
+                <title>守农有牛米5千克</title>
+                <brief></brief>
+                <price>230</price>
+                
+                <inventory>10</inventory>
+                <category></category>
+                <sold>0</sold>
+                <owner>git/wurui</owner>
+                <description></description>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29u0furmoTjpbx6u34RjriwAau3-1000.png</src>
+                        <type>image</type>
+                    </i>
+                </media>
+            </i>
+
+            
         </ecom-products>
     </data>
 </root>
